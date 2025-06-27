@@ -1,1 +1,1 @@
-# blendbarnfarms-github.io
+# blendbarnfarms.github.io
